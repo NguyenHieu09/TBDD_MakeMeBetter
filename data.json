@@ -1,0 +1,1929 @@
+{
+   "user":[
+       {
+         "id":"1",
+         "username":"Ngoc Pham",
+         "email": "bngoc1792@gmail.com"
+       },
+       {
+         "id":"2",
+         "username":"Hieu Nguyen",
+         "email":"hieu92145@gmail.com"
+       }
+   ],
+   "articles":[
+       {
+           "id":"1",
+           "date":"NOVEMBER 13, 2023",
+           "catetory":"Self Motivation",
+           "title":"Be More Optimistic and Less Pessimistic",
+           "like":"1963",
+           "time":"3:12",
+           "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230994/TBDD_API/Make%20Me%20Better%20App/Articles/Be_More_Optimistic_and_Less_Pessimistic_lsy8pm.jpg",
+           "content":[
+               {
+                   "quote": {
+                       "author": "Dietrich Bonhoeffer",
+                       "text": "The essence of optimism is that it takes no account of the present, but it is a source of inspiration, of vitality and hope where others have resigned; it enables a man to hold his head high, to claim the future for himself and not to abandon it to his enemy."
+                     }
+               },
+               {
+                   "section": "Introduction",
+                   "text": "If you ever go on social media, watch the news, or consume other forms of content, you might be primed to think in a pessimistic manner. After all, it always seems the world is getting worse and worse. However, being a pessimist is not a good idea for your daily life. Instead, try to break the mold and cultivate optimism."
+                 },
+                 {
+                   "section": "Benefits of Optimism",
+                   "text": "Optimism has been scientifically proven to contribute to your well-being. It makes you happier and more satisfied with your daily life. It also makes you more resilient. Whenever you face issues, remembering that they are temporary can give a big boost to your ability to overcome them and move on. Optimism enables you to feel less stressed and even get healthier."
+                 },
+                 {
+                   "section": "Understanding Optimism",
+                   "text": "Being optimistic should not be confused with wearing rose-tinted glasses. It's not about believing that everything is fine and dandy. Instead, this mindset involves thinking that things have the potential to get better. Rather than anticipating the worst, optimists are able to stay hopeful."
+                 },
+                 {
+                   "section": "Practicing Optimism",
+                   "text": "How can you practice optimism? There are several things you could do to cultivate a more positive mindset. The first step is to train your mind to come up with positive scenarios. If you are prone to imagining catastrophes in the future, instead try to consider positive or neutral scenarios. Always remind yourself that things can get better. Pay attention to your achievements and to the situations that turn out fine, even when you weren't expecting that. Learn to recognize situations that go well."
+                 },
+                 {
+                   "section": "Cultivating Optimism",
+                   "text": "Optimism can be cultivated by a daily focus on the good that you have and the good that's yet to come. Recognize the negatives but make the effort to also see everything that is working. Cultivating optimism is not a one-day thing. But if you make the decision and follow through with it, you will see changes. These won't just impact on how you think but also how you feel. Optimism is sure to enhance your life and make you better able to resist stress. Give it a shot, especially if you have always seen yourself as a pessimist, and you might be surprised by what happens."
+                 }
+           ]
+       },
+       {
+           "id":"2",
+           "date":"SEPTEMBER 4, 2023",
+           "catetory":"Self Motivation",
+           "title":"Things You Need to Hear Today",
+           "like":"1828",
+           "time":"2:15",
+           "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231008/TBDD_API/Make%20Me%20Better%20App/Articles/Things_You_Need_to_Hear_Today_laknwk.jpg",
+           "content":[
+               {
+                   "quote": {
+                      "author": "Fyodor Dostoyevsky",
+                       "text": "Some days, it feels like everyone got a manual for life, and you didn't. There are things that seem difficult to understand. So, here is a compilation of the most important things you need to hear today, keep in mind, and use to manage your life."
+                     }
+               },
+               {
+                   "section": "Problems don't come with warnings",
+                   "text": "There will always be problems, and you won't get a warning beforehand. It's important to prepare for issues without expecting a warning sign first. You can't become too complacent, expecting that things will always go well or that you will get enough time to prepare. It's useful to anticipate and prepare."
+                 },
+                 {
+                   "section": "We are all selfish to some degree",
+                   "text": "People can be altruistic and act in very unselfish ways. However, we are all selfish to some degree, and that's normal. Accept that those around you don't owe you their time or labor. If you want something from them, offer them something in return. You get to be somewhat selfish, but it's natural to consider yourself and your loved ones first; just don't take it too far."
+                 },
+                 {
+                   "section": "Nobody has it figured out",
+                   "text": "Nobody has it figured out. Sure, some people are better at this and some are better at that. But we all have things we struggle with, things we can't achieve so easily. We are all figuring out and have things we struggle with. It's useful to remember this so that you can show more compassion for yourself and for other people."
+                 },
+                 {
+                   "section": "Appreciate what you have now",
+                   "text": "We often live our lives waiting for the next good thing to come. Instead of looking at what we have, our eyes are always set on whatever is next on the horizon. Having goals is great, but we also should work to appreciate what we have now. Cultivate a practice of gratitude and being in the present so life doesn't pass you by."
+                 },
+                 {
+                   "section": "You are responsible for your life",
+                   "text": "There are things that happen to you that you don't decide. But even if something didn't happen because of you, you still have to cope with it and it becomes your responsibility to manage the consequences. Assume responsibility for your life and make it better. Nobody else will."
+                 }
+           ]
+       },
+       {
+           "id":"3",
+           "date":"SEPTEMBER 4, 2023",
+           "catetory":"Lifestyle Choices",
+           "title":"Being Free: A Necessity or A Luxury?",
+           "like":"2001",
+           "time":"2:19",
+           "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230995/TBDD_API/Make%20Me%20Better%20App/Articles/Being_Free_A_Necessity_or_A_Luxury_hbpey2.jpg",
+           "content":[
+               {
+                   "quote": {
+                       "author": "Kahlil Gibran",
+                       "text": "Life without liberty is like a body without spirit"
+                     }
+               },
+               {
+                   "section": "Freedom",
+                   "text": "Freedom is a complicated topic. Philosophers have argued over how important it is and whether we can achieve true freedom. However, in a more practical sense, we need to consider what freedom can be for us and whether it is worth pursuing it in our own lives."
+                 },
+               {
+                   "section": "Is it a luxury?",
+                   "text": "For some people, liberty can definitely feel like a luxury. It's not easy to achieve and not easy to maintain. However, this doesn't mean that freedom is something unnecessary. People begin looking for autonomy at an early age."
+                 },
+                 {
+                   "section": "Does freedom lead to boredom?",
+                   "text": "Having too much freedom is sometimes linked to feeling bored. However, this doesn't come as a result of freedom per se, but rather as a result of a lack of clarity. It's important to learn to manage freedom in a way that is responsible and gives us control over our lives."
+                 },
+                 {
+                   "section": "Freedom is linked to responsibility",
+                   "text": "It's also important not to believe that freedom is just about doing whatever. It is the other side of the coin to responsibility. By recognizing both sides of the coin, we can live our autonomy in a way that does not hurt us and those around us."
+                 },
+                 {
+                   "section": "Freedom contributes to our mental health",
+                   "text": "When we feel in charge of our lives, we feel better and have less distress. While there are things that are obviously beyond our control, we do need to feel like we are in the driver's seat."
+                 },
+                 {
+                   "section": "What we need to feel free in our lives",
+                   "text": "Freedom is a basic necessity. How can we achieve this experience? We need to be able to own our decisions, the good and the bad. Another way of being free is taking the power of making our own decisions."
+                 },
+                 {
+                   "section": "Conclusion",
+                   "text": "Recognizing that freedom matters and working to make it ours can help us feel in control and encourage us to make better decisions while also assuming responsibility for the outcomes. Feeling free gives us confidence and helps us become our own people."
+                 }
+           ]
+       },
+       {
+           "id":"4",
+           "date":"SEPTEMBER 8, 2023",
+           "catetory":"Lifestyle Choices",
+           "title":"Be Smart and Stop Doing These Things as you grow old",
+           "like":"1723",
+           "time":"4:12",
+           "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230995/TBDD_API/Make%20Me%20Better%20App/Articles/Be_Smart_and_Stop_Doing_These_Things_as_you_grow_old_hc6r2f.jpg",
+           "content":[
+               {
+                   "quote": {
+                      "author": "Fyodor Dostoyevsky",
+                       "text": "The key to successful social behavior: be approachable and understand the needs of others."
+                     }
+               },
+               {
+                   "section": "Introduction",
+                   "text": "As we age, it's important to adopt better practices. Some things that might have worked when we were young won't be as effective later on. Building solid habits and avoiding practices that may lead to ruin, whether in finances or emotions, becomes a sign of wisdom."
+                 },
+                 {
+                   "section": "Don't share everything",
+                   "text": "Learn to keep certain things to yourself. While truth is often valued, there are instances where it may cause more harm than good. Some secrets, even if you want to unburden yourself, could deeply hurt others with no recourse for them. It's okay to keep private thoughts and feelings."
+                 },
+                 {
+                   "section": "Multiple sources of income",
+                   "text": "Relying on a single income might not suffice. Cultivate different income streams to enhance financial stability. Having at least two sources of income is essential in today's unpredictable world."
+                 },
+                 {
+                   "section": "Prioritize health",
+                   "text": "As we age, our health becomes a priority. What seemed insignificant before becomes the most important thing. Without health, other aspects of life lose their value. Pay attention to health and avoid pushing yourself too hard."
+                 },
+                 {
+                   "section": "Construct your own lifestyle",
+                   "text": "Wisdom teaches us that copying someone else's lifestyle, especially if it's beyond our means, isn't necessary. Create a lifestyle that suits your physical and emotional needs, making you happy, satisfied, and allowing time for loved ones and yourself."
+                 },
+                 {
+                   "section": "Handling criticism",
+                   "text": "Never take criticism personally. It's essential for personal growth. Even if delivered poorly, evaluate criticism objectively. Apply useful feedback for personal improvement and discard the rest."
+                 },
+                 {
+                   "section": "Be open to advice",
+                   "text": "Good advice can come from unexpected sources. Evaluate advice critically, irrespective of its source. A fresh perspective, even from someone you might not like, could offer valuable insights."
+                 }
+           ]
+       },
+       {
+         "id":"5",
+         "date":"SEPTEMBER 8, 2023",
+         "catetory":"Lifestyle Choices",
+         "title":"What happens when you are kind to others?",
+         "like":"745",
+         "time":"1:12",
+         "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231012/TBDD_API/Make%20Me%20Better%20App/Articles/What_happens_when_you_are_kind_to_others_ncqetf.jpg",
+         "content": [
+            {
+                "quote": {
+                   "author": "Fyodor Dostoyevsky",
+                    "text": "The key to successful social behavior: be approachable and understand the needs of others."
+                  }
+            },
+          {
+            "section": "Introduction",
+            "text": "In a world often deemed harsh and self-centered, kindness stands out as a powerful force with numerous benefits for both individuals and communities."
+          },
+          {
+            "section": "Benefits of Kindness",
+            "text": "Research shows that kindness is profoundly beneficial to our health, both physical and mental. It fosters stronger connections among people, contributing to a sense of community and positivity."
+          },
+          {
+            "section": "Creating Positive Environments",
+            "text": "Acts of kindness have a ripple effect, influencing others to follow suit and create a more positive environment. Kindness helps in feeling more in control of one's life."
+          },
+          {
+            "section": "Empowerment through Kindness",
+            "text": "Even small acts of kindness, whether toward strangers or loved ones, have a significant impact. They empower individuals to see the power they hold in affecting change, one person at a time."
+          },
+          {
+            "section": "Kindness as a Path",
+            "text": "Kindness is accessible to everyone and offers a win-win scenario, benefiting both the giver and the receiver. It enhances emotional well-being, physical health, and strengthens social connections."
+          },
+          {
+            "section": "Practical Kindness",
+            "text": "Being kind doesn't require grand gestures. Simple acts, like those promoted by initiatives such as Random Acts of Kindness, can significantly impact someone's day or life."
+          }
+        ]
+     },
+         {
+           "id": "6",
+           "date": "AUGUST 17, 2023",
+           "catetory": "Lifestyle Choices",
+           "title": "Signs That You are Losing Hope",
+           "like":"2079",
+           "time":"2:50",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231007/TBDD_API/Make%20Me%20Better%20App/Articles/Signs_That_You_are_Losing_Hope_vny7lg.jpg",
+           "content": [
+               {
+                   "quote": {
+                      "author": "Fyodor Dostoyevsky",
+                       "text": "The key to successful social behavior: be approachable and understand the needs of others."
+                     }
+               },
+             {
+               "section": "Introduction",
+               "text": "Hope is a powerful thing. It can keep us going through the darkest times and the worst situations. But sometimes, it all just becomes too much. We start losing this powerful asset little by little when things get too much and need to take action if this happens. Let’s see what are the signs you may be losing hope."
+             },
+             {
+               "section": "Constant Anxiety",
+               "text": "One sign of losing hope is constant worry about the future, indicating a lack of optimism. Cultivating optimism can help counter this by focusing on positive outcomes and considering that tough times are temporary."
+             },
+             {
+               "section": "Diminished Excitement",
+               "text": "Another sign is feeling quickly demotivated by new things or tasks. Practicing savoring and gratitude helps in appreciating and staying engaged with experiences that might otherwise lose their appeal."
+             },
+             {
+               "section": "Inability to Commit",
+               "text": "Trying to distract oneself with new habits or activities, yet finding it hard to commit, can indicate a loss of hope. Focusing on mental health, exercise, good nutrition, and sleep can help restore hope and overall well-being."
+             },
+             {
+               "section": "Neglecting Responsibilities",
+               "text": "When hope diminishes, fulfilling responsibilities might feel pointless. Seeking help and engaging in new experiences or connections can help reignite hope and motivation."
+             },
+             {
+               "section": "Seeking Immediate Rewards",
+               "text": "Losing hope can lead to prioritizing immediate rewards over long-term goals. Reinvesting time and effort into decisions aligned with future goals can restore a sense of capability and purpose."
+             }
+           ]
+         },
+         {
+           "id": "7",
+           "date": "OCTOBER 17, 2023",
+           "catetory": "Habit Building",
+           "title": "Do you Always Need Background Noise?",
+           "like":"2450",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230998/TBDD_API/Make%20Me%20Better%20App/Articles/Do_you_Always_Need_Background_Noise_foyba7.jpg",
+           "content": [
+               {
+                   "quote": {
+                      "author": "Fyodor Dostoyevsky",
+                       "text": "The key to successful social behavior: be approachable and understand the needs of others."
+                   }
+               },
+               {
+                   "section": "Introduction",
+                   "text": "There is always something to distract us these days. Often, as we do other things, we also have background noise or something to add more stimulation: maybe it's a podcast, a video, music, or an audiobook, or just plain old television playing. While some activities lend themselves to this additional distraction, others can suffer from it. Consider that it's not always a good idea to have something in the background. Let's examine the reasons why."
+               },
+               {
+                   "section": "It does distract you",
+                   "text": "You might feel that the distraction is tiny, barely noticeable. But it is there. Things playing, noise, changes, even music can capture your attention and keep it away from the task at hand. Sure, it might not be a big deal but sometimes, it can keep you also from doing your best work. Getting distracted can be a bit risky - if youre handling a knife or a sharp object, you need to focus more on whatever you are doing to avoid an accident or a small mishap. When doing tasks that require precision, it's also important to pay attention."
+               },
+               {
+                   "section": "Your attention is more limited than you expect",
+                   "text": "We tend to overestimate our ability to pay attention. We believe that it's much more flexible and capable, and this is true of most people. However, we can really pay attention to one thing at a time. Our full attention is what allows us to engage with tasks or activities, enjoy them in their totality, and have more fun than you would otherwise. Even unpleasant or difficult activities can be enjoyed more if we give them our full attention. Being present in the moment is what helps us stay engaged and reduce worries about the past or the future. It can help us be more present and live our lives in a genuine way. Remember that your attention is limited, and when you try to do more than one thing, even if one is just a podcast playing in the background, then the quality of your enjoyment and performance both suffer."
+               },
+               {
+                   "section": "Your mind does pay some attention to the background noise",
+                   "text": "Sure, you might not be able to repeat, word for word, what you heard in the audiobook or even be certain what you were listening to. However, in the moment, it still drains some amount of your energy and attentional resources. Consider that our brains are wired to really be focused on one thing at a time. When we try to multitask, we just switch quickly between the different elements. Especially if there are constant changes, like shifts in the voice of the person speaking or just the shift between one song and the next, will attract your focus. Even if you think you're not paying attention, the noise is leeching some level of your attention."
+               },
+               {
+                   "section": "You are never alone with yourself",
+                   "text": "Sometimes, our distractions serve a deeper purpose or might simply have an unintended effect. We are never alone with our thoughts; there is always something to occupy our attention. This means that we don't pay attention to our deeper concerns, thoughts, and ideas. We deny our brain the chance to explore and consider the different things brewing inside and often also deny ourselves the insights it could bring. When we allow ourselves to be silent and listen to ourselves with no distractions, we can have some amazing experiences, discover new things about who we are and what we want. Silence can promote reflection, so it's important we are not always blasting our thoughts away with music."
+               },
+               {
+                   "section": "Multitasking rarely works",
+                   "text": "Multitasking can feel productive, but, actually, it's very rarely productive in reality. Instead, it can make us perform worse. While music isn't always a big enough distraction to count as multitasking, having something in the background can lead to our brain operating in a multitask mode, which can hurt performance. And the sneakiest thing about multitasking is that we don't notice how much it affects us. Overall, having music or a book or a podcast in the background can make routine, physical tasks easier. But sometimes, it can also interfere with work, creativity, and productivity, as well as Introspection and reflection. It's important to give our brain a chance to just be with its thoughts and focus fully on the task at hand."
+               }
+           ]
+       },
+       {
+           "id": "8",
+           "date": "AUGUST 26, 2023",
+           "catetory": "Habit Building",
+           "title": "Don't Go Broke Just to Look Rich",
+           "like":"3840",
+           "time":"5:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231806/TBDD_API/Make%20Me%20Better%20App/Articles/Don_t_Go_Broke_Just_to_Look_Rich_soskdi.jpg",
+           "content": [
+               {
+                   "quote": {
+                      "author": "Fyodor Dostoyevsky",
+                       "text": "The key to successful social behavior: be approachable and understand the needs of others."
+                   }
+               },
+             {
+               "section": "Introduction",
+               "text": "Having expensive things can be nice. But it's especially great when you can afford them too. Many people feel that by having expensive things they show others that they have status and might have debts just to get these material things. But it's not worth it."
+             },
+             {
+               "section": "Worry About Appearances",
+               "text": "Today, many people are more worried about appearances than their health or their financial well-being. They want to appear rather than be. It's the people who rent an expensive car or hotel to have it appear in their Instagram photos. It's those who max out their cards to get a brand they can't really afford."
+             },
+             {
+               "section": "Results Are Only Surface Level",
+               "text": "People think this makes them seem better. But even if it does, the results are only skin-deep. They can never be authentic."
+             },
+             {
+               "section": "Risks of Fitting In Financially",
+               "text": "Trying to fit in by going broke is not the best idea. First, it means you are being irresponsible with your money and might not afford things that you need. You can also hurt your reputation with other people if they realize what's going on. It also can be a detriment to your mental health."
+             },
+             {
+               "section": "Inauthenticity of Appearing a Certain Way",
+               "text": "Using these tactics to fit in or appear a certain way is inauthentic. It can make you feel like an impostor, draining your energy and causing anxiety. It hurts your peace of mind."
+             },
+             {
+               "section": "Belonging for Who You Are",
+               "text": "The concept of belonging based on possessions is an illusion. You belong for who you are and what others are. Material things can't change that or make you truly belong."
+             },
+             {
+               "section": "Invest in Yourself",
+               "text": "It's better to invest in yourself: skills, knowledge, sociability, and authenticity. Purchase things that reflect who you are and what you need. This authenticity looks and feels genuine."
+             },
+             {
+               "section": "Embrace Your True Self",
+               "text": "Belong as who you are, not as who you pretend to be. This authenticity leads to lifelong connections, a strong sense of belonging, and peace of mind knowing you're accepted as you are."
+             }
+           ]
+         },
+         {
+           "id": "9",
+           "date": "AUGUST 11, 2023",
+           "catetory": "Habit Building",
+           "title": "The Habits that are Holding you back",
+           "like":"1901",
+           "time":"2:48",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231008/TBDD_API/Make%20Me%20Better%20App/Articles/The_Habits_that_are_Holding_you_back_r2xmcn.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Aristotle",
+                 "text": "We are what we repeatedly do. Excellence, then, is not an act but a habit."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Habits can't be underestimated. If we do something frequently, it becomes a part of us. If we have great habits, that's amazing. It's likely to lead us to great results. But some habits can hold us back and prevent us from reaching our full potential."
+             },
+             {
+               "section": "Setting unrealistic timelines",
+               "text": "An unrealistic timeline can make us feel like a failure because we did not meet a goal that was often very hard to meet. Instead of planning for a goal that we can only achieve under the best conditions, we should plan for a more realistic timeline. It will keep you motivated and help you avoid letting others down."
+             },
+             {
+               "section": "Going too fast",
+               "text": "Learning to slow down can help you be more engaged with the present and to focus on what you are doing. Speed often means we make more mistakes."
+             },
+             {
+               "section": "Blaming yourself for not making progress",
+               "text": "Don't blame yourself for not making enough progress. Instead, try to celebrate your achievements and practice gratitude. Chart a course for future progress, but don't focus on how much you've failed."
+             },
+             {
+               "section": "Feeling bad about your current situation",
+               "text": "Instead, gratitude is the perfect antidote. Consider all the things you can appreciate in your life. Gratitude inspires you to do better and strive for more."
+             },
+             {
+               "section": "Doing what others think you should be doing",
+               "text": "Try to focus on what you want and need. It's fine to give up what you never wanted, and let others feel disappointed. Your life is yours to live."
+             },
+             {
+               "section": "Punishing yourself over small things",
+               "text": "Instead, try to be kind to yourself. Kindness leads to better results with others. It will also lead to better results with yourself."
+             }
+           ]
+         },
+         {
+           "id": "10",
+           "date": "JULY 24, 2023",
+           "catetory": "Habit Building",
+           "title": "Why Stress Management is Necessary",
+           "like":"1963",
+           "time":"5:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231014/TBDD_API/Make%20Me%20Better%20App/Articles/Why_Stress_Management_is_Necessary_ge2ppn.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Hans Selye",
+                 "text": "It's not stress that kills us, it's our reaction to it."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Stress is so normal that we usually feel it every day or most days. This is true of the people who work, who stay at home doing chores and childcare, who study, who combine these tasks and have to do even more. But what does it do to us when stress is such a big part of our lives?"
+             },
+             {
+               "section": "Impact of Unmanaged Stress",
+               "text": "When stress is not managed properly, it can have a negative impact on physical and mental health. Stress, especially when too intense or too frequent, can contribute to diseases like heart problems or depression."
+             },
+             {
+               "section": "Importance of Stress Management",
+               "text": "For most of us, stress management becomes an important part of our daily routines to take care of our health. It involves working with our minds and emotions to increase resilience and reduce the impact of stress."
+             },
+             {
+               "section": "Strategies for Stress Management",
+               "text": "Reframing stressful situations as challenges, channeling stress into useful activities like exercise or hobbies, and using stress as a learning opportunity can help manage its impact."
+             },
+             {
+               "section": "Benefits of Stress Management",
+               "text": "Stress management can significantly improve physical and mental health while also becoming a powerful tool for enhancing life quality."
+             }
+           ]
+         },
+         {
+           "id": "11",
+           "date": "NOVEMBER 16, 2023",
+           "catetory": "Introspection",
+           "title": "Reminders to Protect Your Peace of Mind",
+           "like":"4850",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231914/TBDD_API/Make%20Me%20Better%20App/Articles/Reminders_to_Protect_Your_Peace_of_Mind_rhmvjj.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Wayne W. Dyer",
+                 "text": "You have everything you need for complete peace and total happiness right now."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Maintaining peace of mind isn't always easy in a world that feels chaotic, but there are strategies to navigate this and retain tranquility amidst challenges."
+             },
+             {
+               "section": "Handling Insults",
+               "text": "Ignore insults or negative comments as responding often escalates conflicts, leading to more aggression. Maintaining peace is more important than engaging in such situations."
+             },
+             {
+               "section": "Dealing with Disrespect",
+               "text": "Disrespect from others reflects on them, not on you. Staying calm in the face of disrespect often presents a better image than reacting negatively."
+             },
+             {
+               "section": "Understanding Ambiguous Signals",
+               "text": "Consider ambiguous responses as 'no' until they become a clear 'yes'. This approach helps avoid disappointment and pressure in communication, allowing for better decision-making."
+             },
+             {
+               "section": "Ending Unhealthy Relationships",
+               "text": "Recognize and distance yourself from Relationships that consistently affect your well-being negatively. Focus on nurturing Relationships rather than maintaining stressful or disrespectful ones."
+             },
+             {
+               "section": "Taking People at Their Word",
+               "text": "Rather than overanalyzing others' words, take them at face value. Trust what someone says unless there's solid evidence indicating otherwise, reducing unnecessary worry."
+             }
+           ]
+         },
+         {
+           "id": "12",
+           "date": "OCTOBER 14, 2023",
+           "catetory": "Introspection",
+           "title": "Do you Feel Guilty When You're Resting?",
+           "like":"1963",
+           "time":"7:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230998/TBDD_API/Make%20Me%20Better%20App/Articles/Do_you_Feel_Guilty_When_You_re_Resting_wrhgfm.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "John Lubbock",
+                 "text": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Our culture values productivity, often leading us to feel the need to be productive every minute. However, rest is essential and rejuvenating. Here are ideas to enjoy rest without guilt and ensure you get enough of it."
+             },
+             {
+               "section": "Rest Gives You Energy",
+               "text": "Embracing rest as necessary for growth and development is crucial. It nurtures effectiveness and efficiency, enhancing our overall functionality."
+             },
+             {
+               "section": "Your Mind Needs a Break",
+               "text": "Constant mental activity, even during leisure, can be exhausting. Allowing the mind to rest aids in clearer thinking, planning, and decision-making."
+             },
+             {
+               "section": "Rest Enhances Decision-Making",
+               "text": "Rest helps in avoiding rushed or stressed decisions, allowing for a better assessment of consequences and considerations, ultimately leading to better choices."
+             },
+             {
+               "section": "Rest Brings Serenity",
+               "text": "Restful periods reduce irritability and stress, enabling calmer reactions in situations. Avoiding constant irritability preserves Relationships and prevents emotional and physical strain."
+             },
+             {
+               "section": "The Body's Need for Rest",
+               "text": "Ignoring rest leads to the body claiming it in inconvenient ways, like falling asleep unintentionally or affecting mental and physical performance. It's crucial to prioritize rest to avoid these consequences."
+             }
+           ]
+         },
+         {
+           "id": "13",
+           "date": "AUGUST 23, 2023",
+           "catetory": "Introspection",
+           "title": "Are you Lying to Yourself?",
+           "like":"1963",
+           "time":"2:01",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230994/TBDD_API/Make%20Me%20Better%20App/Articles/Are_you_Lying_to_Yourself_xysy3m.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Fyodor Dostoyevsky",
+                 "text": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love."
+               }
+             },
+             {
+               "section": "Signs of Self-Deception",
+               "text": "Avoiding Introspection by seeking constant distractions."
+             },
+             {
+               "section": "Signs of Self-Deception",
+               "text": "Feeling anger or jealousy toward others living authentically."
+             },
+             {
+               "section": "Signs of Self-Deception",
+               "text": "Experiencing dissatisfaction despite seemingly achieving goals."
+             },
+             {
+               "section": "Dealing with Self-Deception",
+               "text": "Face the truth by spending time alone, reflecting on hidden thoughts, and seeking guidance from trusted individuals."
+             },
+             {
+               "section": "Overcoming Self-Deception",
+               "text": "Be authentic, understand your desires, and commit to being genuine with yourself, as nobody else can succeed at being you."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Stop lying to yourself, embrace authenticity, and you won't regret this decision."
+             }
+           ]
+         },
+         {
+           "id": "14",
+           "date": "AUGUST 5, 2023",
+           "catetory": "Introspection",
+           "title": "Never think that your Problems are Someone else's Responsibility",
+           "like":"450",
+           "time":"2:17",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231002/TBDD_API/Make%20Me%20Better%20App/Articles/Never_think_that_your_Problems_are_Someone_else_s_Responsibility_wqkgsi.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Leon Brown",
+                 "text": "You must take responsibility for your own choices and actions, for you learn nothing until you take ownership of your life."
+               }
+             },
+             {
+               "section": "Taking Ownership",
+               "text": "Your life is your responsibility, and your choices define your path. While others can influence, the consequences of your choices rest with you."
+             },
+             {
+               "section": "Blaming Others",
+               "text": "Blaming others for our problems is easy, but taking responsibility is empowering. Acknowledging the role others play without shifting blame leads to growth."
+             },
+             {
+               "section": "Accepting the Past",
+               "text": "Past experiences shape us, but taking control means accepting the present circumstances and taking charge of moving forward."
+             },
+             {
+               "section": "Freedom through Responsibility",
+               "text": "Responsibility brings freedom, not in doing as we please, but in accepting consequences. It grants us control over our choices and their outcomes."
+             },
+             {
+               "section": "Making Decisions",
+               "text": "Every decision bears consequences. Embracing responsibility means embracing the power to decide and accepting the results."
+             },
+             {
+               "section": "The Power of Responsibility",
+               "text": "As we mature, taking responsibility becomes crucial. It's about owning our lives, making our decisions, and embracing the consequences."
+             },
+             {
+               "section": "Transformative Responsibility",
+               "text": "Embracing responsibility might seem daunting, but it liberates, allowing a fulfilling life and the exploration of endless opportunities."
+             }
+           ]
+         },
+         {
+           "id": "15",
+           "date": "AUGUST 14, 2023",
+           "catetory": "Career",
+           "title": "Keep Balance Between Your Professional & Personal Life",
+           "like":"1800",
+           "time":"2:30",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231001/TBDD_API/Make%20Me%20Better%20App/Articles/Keep_Balance_Between_Your_Professional_Personal_Life_dvmwpu.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Katie Thurms",
+                 "text": "You can't do a good job if your job is all you do."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Many people spend hours of each day working, often impacting their personal lives. Maintaining a balance between work and personal life is crucial."
+             },
+             {
+               "section": "Work-Life Balance Dynamics",
+               "text": "Balance isn't always an equal split; sometimes one aspect requires more attention. Establishing clear boundaries between work and personal time is essential."
+             },
+             {
+               "section": "Empowerment to Say No",
+               "text": "Having the ability to decline additional work or requests is empowering, allowing for better prioritization."
+             },
+             {
+               "section": "Prioritizing Self-Care",
+               "text": "Self-care through adequate sleep, leisure, and socializing is vital for overall well-being and productivity."
+             },
+             {
+               "section": "Long-Term Perspective",
+               "text": "Prioritize long-term benefits like health and Relationships, not just short-term work gains."
+             },
+             {
+               "section": "Synergy of Work and Life",
+               "text": "Balancing work and personal life involves nurturing a harmonious relationship between the two, rather than viewing them as separate entities."
+             }
+           ]
+         },
+         {
+           "id": "16",
+           "date": "JULY 9, 2023",
+           "catetory": "Career",
+           "title": "Signs that it's time for a Career Change",
+           "like":"1920",
+           "time":"2:07",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231007/TBDD_API/Make%20Me%20Better%20App/Articles/Signs_that_it_s_time_for_a_Career_Change_tl0lyh.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Andre Gide",
+                 "text": "Man cannot discover new oceans unless he has the courage to lose sight of the shore."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Many individuals reach a point where they consider transitioning to a new Career. Recognizing the signs can help determine if it's time for a change."
+             },
+             {
+               "section": "Feeling Bored",
+               "text": "Losing interest and finding no challenge in your current field can signal the need for a change. Feeling stuck in a rut indicates a lack of stimulation and might hint at a need for a shift."
+             },
+             {
+               "section": "Persistent Stress and Anxiety",
+               "text": "Constant stress and anxiety related to work could indicate the necessity for a change. Feeling overwhelmed consistently may prompt consideration for a shift in Career paths."
+             },
+             {
+               "section": "Stagnant Growth",
+               "text": "Hitting a professional ceiling despite considerable effort might suggest the need for change. Transitioning to a new industry could present opportunities for growth and skill development."
+             },
+             {
+               "section": "Misalignment of Values",
+               "text": "When your values don't align with your workplace environment or Career, it may be time to reassess. A job that conflicts with your core beliefs might warrant considering a change."
+             },
+             {
+               "section": "Lack of Peace of Mind",
+               "text": "Feeling restless or experiencing emotional turmoil due to your job can indicate a need for change. Seeking a work environment that provides mental peace might be necessary."
+             },
+             {
+               "section": "Desire for Change",
+               "text": "The innate longing for new experiences and growth can prompt a Career shift. Having the urge for something different, even if everything seems fine, can signify a readiness for change."
+             }
+           ]
+         },
+         {
+           "id": "17",
+           "date": "MAY 11, 2023",
+           "catetory": "Career",
+           "title": "Guide to Become a Role Model for Other People",
+           "like":"780",
+           "time":"2:09",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230998/TBDD_API/Make%20Me%20Better%20App/Articles/Guide_to_Become_a_Role_Model_for_Other_People_fisdvz.jpg",
+           "content": [
+             {
+               "section": "Introduction",
+               "text": "Becoming a role model allows you to inspire others, leave a positive impact, and create an enduring legacy. Here's how you can become a role model for others."
+             },
+             {
+               "section": "Be Authentic",
+               "text": "Authenticity is crucial. Engage in what genuinely interests you and focus on things that truly matter. Being true to yourself draws people to you."
+             },
+             {
+               "section": "Show Competence",
+               "text": "Master your field. Continuous learning and skill development are vital. Being knowledgeable and competent in your area reinforces your role model status."
+             },
+             {
+               "section": "Be a Mentor",
+               "text": "Sharing knowledge and experience is key. Whether through direct mentoring or sharing your journey via various mediums, being a guide inspires others."
+             },
+             {
+               "section": "Consistency with Values",
+               "text": "Align your actions with your core values. Living your values authentically attracts people towards you and solidifies the authenticity of your role model persona."
+             },
+             {
+               "section": "Vulnerability",
+               "text": "Displaying vulnerability to an extent humanizes you. Sharing challenges and struggles can make you more relatable. However, discretion is essential in what you choose to share."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Becoming a role model often stems from achieving success in realizing your potential. Strive for your goals authentically, and others may seek to follow your path."
+             }
+           ]
+         },
+         {
+           "id": "18",
+           "date": "APRIL 28, 2023",
+           "catetory": "Career",
+           "title": "How to Stop Being Manipulative",
+           "like":"781",
+           "time":"5:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231001/TBDD_API/Make%20Me%20Better%20App/Articles/How_to_Stop_Being_Manipulative_bszhcu.jpg",
+           "content": [
+             {
+               "quote": {
+                   "author": "Joyce Brothers",
+                   "text": "Love comes when manipulation stops; when you think more about the other person than about his or her reactions to you. When you dare to reveal yourself fully. When you dare to be vulnerable."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Manipulation can damage Relationships and lead to guilt. To stop this habit, consider focusing on others, effective listening, authenticity, apologies, and avoiding manipulative individuals."
+             },
+             {
+               "section": "Focus on the Other Person",
+               "text": "Shift focus from personal goals to understanding the other's perspective. Empathize and consider their needs and feelings."
+             },
+             {
+               "section": "Listen Effectively",
+               "text": "Enhance communication by active listening. Identify mutual interests and reach agreements beneficial to both parties."
+             },
+             {
+               "section": "Be Authentic",
+               "text": "Communicate transparently about personal wants and needs. Authenticity fosters genuine connections compared to manipulation."
+             },
+             {
+               "section": "Say Sorry",
+               "text": "Acknowledge mistakes and apologize when manipulative behaviors are recognized. Reflect on patterns and aim to change them."
+             },
+             {
+               "section": "Avoid Manipulative People",
+               "text": "Recognize toxic Relationships and reduce interaction with manipulative individuals. Challenge their tactics if necessary."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Understanding the reasons behind avoiding direct communication can aid in overcoming manipulative tendencies. Building authentic dialogue fosters healthier Relationships."
+             }
+           ]
+         },
+         {
+           "id": "19",
+           "date": "NOVEMBER 7, 2023",
+           "catetory": "Communication Skills",
+           "title": "Respect and Trust are really hard to earn, but the reward is worth it",
+           "like":"7845",
+           "time":"2:03",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231007/TBDD_API/Make%20Me%20Better%20App/Articles/Respect_and_Trust_are_really_hard_to_earn_but_the_reward_is_worth_it_bstqou.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "George MacDonald",
+                 "text": "To be trusted is a greater compliment than being loved."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Respect and trust are invaluable yet cannot be forced. Earning someone's trust involves consistent actions, aligning words with deeds, patience, and the choice of deserving individuals."
+             },
+             {
+               "section": "Everyday Actions Matter",
+               "text": "Consistency in daily actions outweighs grand gestures. Reliability in fulfilling promises and commitments is vital to establish trust."
+             },
+             {
+               "section": "Actions Speak Louder",
+               "text": "Consistent actions hold more weight than spoken words. Incoherence between words and deeds diminishes trust and credibility."
+             },
+             {
+               "section": "Patience is Key",
+               "text": "Trust and respect take time to develop, akin to nurturing plants. Rushing this process is futile; patience is essential."
+             },
+             {
+               "section": "Vulnerability of Trust",
+               "text": "Gaining trust is an arduous task, but losing it is easy. Upholding trust aligns with ethical choices and moral integrity."
+             },
+             {
+               "section": "Earn Trust from Deserving Individuals",
+               "text": "Seek trust and respect from those you admire and trust reciprocally. Pursuing trust from incompatible individuals is futile."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Respect and trust, when cultivated authentically, yield invaluable rewards. Prioritize earning them from deserving individuals over seeking universal approval."
+             }
+           ]
+         },
+         {
+           "id": "20",
+           "date": "OCTOBER 2, 2023",
+           "catetory": "Communication Skills",
+           "title": "How to Become More Approachable",
+           "like":"1948",
+           "time":"2:02",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230999/TBDD_API/Make%20Me%20Better%20App/Articles/How_to_Become_More_Approachable_adq96k.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Eraldo Banovac",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Approachability facilitates building personal and professional networks, establishing connections, and managing social and professional life effectively. Unapproachable behavior can lead to isolation and increased stress, hindering friendships and professional networking."
+             },
+             {
+               "section": "Avoid Isolating Yourself",
+               "text": "Signals like a serious demeanor, lack of eye contact, or wearing headphones might discourage others from approaching you. Adjust your body language to appear more open and approachable. Avoid secluded spaces and consider removing headphones to signal openness to interaction."
+             },
+             {
+               "section": "Listen Actively",
+               "text": "Listening attentively without interrupting or rushing conversations fosters an approachable persona. Being a good listener often makes you someone others feel comfortable approaching. Prioritize listening over the urge to immediately provide advice."
+             },
+             {
+               "section": "Avoid Critical Attitudes",
+               "text": "Responding without criticism or judgment encourages people to approach you again. Avoid making critical or mocking remarks, as they may deter others from seeking your advice or company. Offer listening without judgment unless specifically asked for critique."
+             },
+             {
+               "section": "Invite People to Connect",
+               "text": "If you want to appear more approachable, extend genuine invitations for people to approach you. Ensure you follow through on your offer by making time in your schedule to welcome conversations or by scheduling follow-up sessions."
+             },
+             {
+               "section": "Offer Compassion, Not Pity",
+               "text": "Approachability involves offering compassion rather than pity. Compassion involves empathizing and engaging on the same level, without assuming a superior position. Show empathy and understanding when others seek your support."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Being approachable enhances personal and professional Relationships, providing opportunities to understand others and their challenges. While it requires effort, the rewards of approachability are valuable in fostering meaningful connections and understanding the world around us."
+             }
+           ]
+         },
+         {
+           "id": "21",
+           "date": "SEPTEMBER 16, 2023",
+           "catetory": "Communication Skills",
+           "title": "Do Not Assume Everyone Around You Are Mean",
+           "like":"17845",
+           "time":"2:18",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230997/TBDD_API/Make%20Me%20Better%20App/Articles/Do_Not_Assume_Everyone_Around_You_Are_Mean_otilu1.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Assuming everyone around you is mean or has bad intentions can negatively impact personal Relationships, hinder networking, and increase stress in daily life. It's essential to reconsider these assumptions."
+             },
+             {
+               "section": "Your First Impression is Not Always Accurate",
+               "text": "Initial judgments about others might not accurately reflect their true nature. First impressions can be skewed, influenced by the circumstances or stress the person is experiencing at that moment."
+             },
+             {
+               "section": "There is Always More Going On",
+               "text": "Similar to yourself, others deal with numerous problems—emotionally, physically, financially, at work, or at home—that can affect their behavior. Understanding this complexity can help in being more compassionate and less judgmental."
+             },
+             {
+               "section": "We Tend to Focus More on the Negative",
+               "text": "Human nature tends to fixate on negative aspects. This inclination influences how we perceive others, often overlooking positives and drawing conclusions based on a limited view."
+             },
+             {
+               "section": "People Change Depending on the Situation",
+               "text": "Environments significantly impact behavior. Negative environments can elicit adverse behaviors from individuals. While personal responsibility is vital, recognizing the influence of surroundings is equally crucial."
+             },
+             {
+               "section": "People Respond to Us",
+               "text": "If consistently met with negativity, it's essential to self-reflect. Anticipating hostility may inadvertently contribute to hostile responses. Acknowledging this self-contribution can bring significant changes to personal interactions."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Challenging the assumption that everyone is mean involves reevaluating initial judgments, understanding the complexities people face, and recognizing the impact of environments on behavior. Acknowledging personal contributions to interactions can prompt positive changes."
+             }
+           ]
+         },
+         {
+           "id": "22",
+           "date": "AUGUST 29, 2023",
+           "catetory": "Communication Skills",
+           "title": "Do Not Argue, Make Your Point",
+           "like":"1420",
+           "time":"2:19",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230996/TBDD_API/Make%20Me%20Better%20App/Articles/Do_Not_Argue_Make_Your_Point_hheleb.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Encountering disagreement is common in life. Rather than engaging in arguments, presenting your point effectively becomes crucial in expressing opinions and ideas."
+             },
+             {
+               "section": "Argument vs. Making Your Point",
+               "text": "Arguments often involve persuasion and can escalate into hostility, attacking both the ideas and the individuals. Making your point, on the other hand, involves presenting your opinion without inciting conflict, which can make it more persuasive and open for consideration."
+             },
+             {
+               "section": "How to Make Your Point",
+               "text": "Focus on the central idea and facts rather than directing emotion against the other person. Avoid attacking the individual or their beliefs, instead prioritize presenting your message clearly and compellingly."
+             },
+             {
+               "section": "Strength in Your Point",
+               "text": "Ensure the strength of your argument relies on its own merits rather than discrediting the other person's perspective. Aim to articulate your viewpoint effectively, regardless of whether it changes the other person's stance."
+             },
+             {
+               "section": "Emphasizing Your Point",
+               "text": "Understand that despite the best argument, some may not change their viewpoint. However, articulating your perspective serves not only to express yourself but also for the benefit of others who might be listening."
+             },
+             {
+               "section": "Focus on Your Control",
+               "text": "Concentrate efforts on crafting and presenting your point rather than controlling others' responses. Channel energy into making your point as effective and clear as possible."
+             },
+             {
+               "section": "Conclusion",
+               "text": "The essence lies in presenting your viewpoint effectively without resorting to arguments. Focus on articulating your perspective compellingly, knowing that your control is limited to the point you make."
+             }
+           ]
+         },
+         {
+           "id": "23",
+           "date": "NOVEMBER 10, 2023",
+           "catetory": "Goal Setting",
+           "title": "Ways to Reduce Drama in Your Life",
+           "like":"1595",
+           "time":"2:17",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231011/TBDD_API/Make%20Me%20Better%20App/Articles/Ways_to_Reduce_Drama_in_Your_Life_kfeztl.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Ram Charan",
+                 "text": "Drama starts where logic ends."
+               }
+             },
+             {
+               "section": "Stay Focused on Your Life",
+               "text": "Prioritize your own life and assess if getting involved in a situation is truly impactful for you. Avoid unnecessary involvement in trivial or conflict-ridden scenarios that offer no positive impact."
+             },
+             {
+               "section": "Keep Busy with Meaningful Things",
+               "text": "Engage in fulfilling and constructive activities that add value to your life. Staying occupied with meaningful pursuits reduces the temptation to get involved in idle gossip or unnecessary drama."
+             },
+             {
+               "section": "You Can't Fix Everyone, Can't Fix Everything",
+               "text": "Avoid the belief that you can resolve every issue or fix people involved in drama. Recognize the complexity of such situations and refrain from taking responsibility for problems that aren't yours to solve."
+             },
+             {
+               "section": "Intervene if Something's Wrong, but Don't Overstep",
+               "text": "When necessary, intervene in situations that are unjust or dangerous. However, understand your boundaries and avoid overstepping, especially in scenarios where you're not directly responsible for those involved."
+             },
+             {
+               "section": "Admit Your Mistakes",
+               "text": "Acknowledging and admitting mistakes can prevent unnecessary drama. By accepting errors, you eliminate the chance of others using them against you and create opportunities for personal growth and better conflict management."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Reducing drama involves prioritizing your life, staying engaged in meaningful activities, recognizing your limitations in resolving others' issues, intervening only when necessary, and admitting mistakes as a means of personal growth."
+             }
+           ]
+         },
+         {
+           "id": "24",
+           "date": "NOVEMBER 3, 2023",
+           "catetory": "Goal Setting",
+           "title": "Planning for Money is as Important as Planning for the Future",
+           "like":"1898",
+           "time":"6:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231002/TBDD_API/Make%20Me%20Better%20App/Articles/Planning_for_Money_is_as_Important_as_Planning_for_the_Future_cm0kbg.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "The management of your finances holds more significance than your income. Financial planning is essential for your present and future, enabling preparation for both positive experiences like trips and projects and dealing with emergencies."
+             },
+             {
+               "section": "Your Needs Change, So You Need to Keep Planning",
+               "text": "Regularly update your financial plan to align with your evolving lifestyle, goals, and needs. Avoid succumbing to trends or societal pressures and stay true to your financial goals."
+             },
+             {
+               "section": "Avoid Stuff You Don't Need and Don't Want",
+               "text": "Reduce impulsive purchases by budgeting and understanding your expenses. Consider buying in bulk to save costs and practice delaying purchases to ensure mindful spending aligned with your needs."
+             },
+             {
+               "section": "Make a Realistic Plan",
+               "text": "Balance essential expenses with leisure and fun activities in your financial planning. Even during challenging times, allocate a portion of your budget for enjoyable activities or find free/affordable alternatives."
+             },
+             {
+               "section": "Save for the Emergency Fund First",
+               "text": "Prioritize building an emergency fund before allocating resources to other areas. This fund acts as a safety net during unexpected situations."
+             },
+             {
+               "section": "Find the Right Way for You",
+               "text": "Choose the financial planning tools that suit your preferences, whether it's digital apps, pen-and-paper methods, or seeking advice from financial consultants. The focus should be on achieving your goals, not on the method."
+             },
+             {
+               "section": "Plan in Time Increments",
+               "text": "Develop a holistic savings plan considering yearly, six-month, three-month, monthly, weekly, and daily goals. Utilize budgeting tools to track expenses and income regularly."
+             },
+             {
+               "section": "Conclusion",
+               "text": "Effective financial planning is a continuous process that adapts to changing needs. By avoiding unnecessary expenses, setting realistic goals, and employing suitable tools, you can secure your financial future."
+             }
+           ]
+         },
+         {
+           "id": "25",
+           "date": "SEPTEMBER 12, 2023",
+           "catetory": "Goal Setting",
+           "title": "Behavioral Skills - Why Patience Is Important",
+           "like":"2456",
+           "time":"2:47",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700230995/TBDD_API/Make%20Me%20Better%20App/Articles/Behavioral_Skills_Why_Patience_Is_Important_o7yupf.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Patience holds immense value in situations where waiting is inevitable. Developing patience offers numerous benefits, contrasting with the stress and impulsivity that arise from impatience in uncontrollable circumstances."
+             },
+             {
+               "section": "Understanding Impatience",
+               "text": "Impatience leads to stress over uncontrollable situations and often results in rash decisions or actions. It can strain Relationships and tarnish reputations due to hurried or ill-advised choices."
+             },
+             {
+               "section": "Cultivating Patience",
+               "text": "Practice distraction techniques by engaging in various activities to divert your attention during waiting periods. Additionally, work on your mindset by challenging the idea that everything must happen immediately. Address underlying anxiety, as it often fuels impatience."
+             },
+             {
+               "section": "Benefits of Patience",
+               "text": "Patience equips you to confront challenges calmly and gracefully, reducing stress and anxiety. Nurturing patience proves advantageous in diverse situations, making it a valuable trait to develop."
+             }
+           ]
+         },
+         {
+           "id": "26",
+           "date": "AUGUST 31, 2023",
+           "catetory": "Goal Setting",
+           "title": "Just DO It",
+           "like":"2456",
+           "time":"2:45",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231002/TBDD_API/Make%20Me%20Better%20App/Articles/Just_DO_It_zn77qy.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Constant planning and contemplation, while essential, may hinder the actualization of goals. Taking action, the 'Just DO It' approach, holds significant importance in manifesting objectives into reality."
+             },
+             {
+               "section": "Decide What You Truly Want to Try, DO IT",
+               "text": "Identify your genuine desires, whether it involves a Career change, ending a relationship, or exploring new hobbies. Don't wait for dissatisfaction to strike; if you know what you want, take the leap."
+             },
+             {
+               "section": "Conditions Might Not Be Perfect, but DO IT",
+               "text": "Avoid waiting for the 'perfect' situation, as it may never materialize. Start now if the circumstances allow, as waiting for ideal conditions can be a continuous cycle."
+             },
+             {
+               "section": "You Will Never Have Less Responsibility Than Today, so DO IT",
+               "text": "Responsibilities tend to increase over time. Waiting for reduced obligations might delay your goals indefinitely. Start pursuing your ambitions despite the existing responsibilities."
+             },
+             {
+               "section": "You Will Never Be 100% Confident, so DO IT",
+               "text": "Feeling insecure or unprepared is normal. Waiting for complete confidence might hinder progress. Embrace uncertainty and take action despite doubts."
+             },
+             {
+               "section": "You Can Keep Planning as You Work, so DO IT",
+               "text": "Plans are adaptable. Initiate action and adjust plans accordingly as circumstances evolve. Take the first step and refine your strategy as you progress."
+             },
+             {
+               "section": "You Will Learn by Doing, so DO IT",
+               "text": "Action fosters learning and growth. Waiting until fully prepared limits opportunities for improvement. Dive into experiences, make mistakes, and learn from them."
+             }
+           ]
+         },
+         {
+           "id": "27",
+           "date": "OCTOBER 23, 2023",
+           "catetory": "Relationships",
+           "title": "Resetting the Equation With Your Partner",
+           "like":"2456",
+           "time":"2:20",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231005/TBDD_API/Make%20Me%20Better%20App/Articles/Resetting_the_Equation_With_Your_Partner_f7twra.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Mignon McLaughlin",
+                 "text": "A successful marriage requires falling in love many times, always with the same person."
+               }
+             },
+             {
+               "section": "Try to add a little spice",
+               "text": "Novelty is important, and novelty in regards to your romantic relationship can be fun. Propose new things and surprise your partner by suggesting different new things. Take initiative to plan something new and add a little spice to everyday routine."
+             },
+             {
+               "section": "Start with the small things",
+               "text": "Consider getting a new dessert or buy a small present on your way home. It doesn't have to be jewelry or an expensive phone; instead, it can be a cute little detail that made you think of your partner. Do a chore you never do. Invite them to go somewhere you've never been. These things might be small, but if you do them regularly, they will add up."
+             },
+             {
+               "section": "Plan a date like old times",
+               "text": "Maybe you still have a lot of dates, but often, they happen in a different way. A good option is to go back to the beginning and plan a date that is reminiscent of the times you first began going out. Go to an old haunt or watch a movie that you loved. Take a little walk down memory lane and see how it feels."
+             },
+             {
+               "section": "Take personal time",
+               "text": "Another problem that leads to the relationship feeling stale is that you might feel like there's nothing new. You share most things and know each other. So, a good tip for rekindling the fire is to get into the habit of having your own time and activities. Do your own thing and then come back to share your experience. Build up your self as a separate individual and bring a lot of fresh things, ideas, and skills into your relationship. Nurture yourself to have more to nurture your relationship."
+             },
+             {
+               "section": "Talk to your partner",
+               "text": "The process of rekindling can't be carried out by a single person. The relationship belongs to two people, and you need to get them on board. Talk to them to get their perspective and see what they feel is missing. Often, together, you will be able to discover a problem and address it together. Provide your perspective and make sure to listen carefully to your partner as well. This is the best way to see where things are going wrong: in a specific element of your relationship or another, in your routine weekdays or your lazy Sundays."
+             },
+             {
+               "section": "Experiment, experiment, experiment",
+               "text": "There are many things that can work for you, but also many things that cannot. If the first thing you try doesn't help as much as you hoped, it doesn't mean that nothing will. Some solutions can add a bit of spice and novelty for a while, and then feel stale as well. It's important to commit and keep experimenting, often with small things. That can be enough. But don't give up quickly - keep looking for new solutions and opportunities. Invest time and energy in your relationship."
+             }
+           ]
+         },
+         {
+           "id": "28",
+           "date": "OCTOBER 20, 2023",
+           "catetory": "Relationships",
+           "title": "Ways to Cope With Separation or Divorce",
+           "like":"2456",
+           "time":"2:10",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231010/TBDD_API/Make%20Me%20Better%20App/Articles/Ways_to_Cope_With_Separation_or_Divorce_qgjnnw.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Lucy Dacus",
+                 "text": "Every breakup is preceded by a bad relationship. So breakups should be cause for celebration and triumph."
+               }
+             },
+             {
+               "section": "Remember that the world is not over yet",
+               "text": "The first thing to remind yourself of is that the world is not over. The end of a single relationship, even a hugely meaningful one, doesn't mean that your life is over. Instead, it can become a new beginning to meet other people and nurture new Relationships. Keep an optimistic outlook on the future and give yourself time to recover, heal, and see the new things that might be just on the other side of the horizon."
+             },
+             {
+               "section": "Avoid blaming yourself",
+               "text": "A relationship is usually a matter involving two people. This means that you might have a certain degree of responsibility for the relationship, however, responsibility and blame are not the same thing. Accept responsibility for the things you did and try to learn for next time. But there is little point in ruminating on the same things. Focus on what is constructive and not destructive."
+             },
+             {
+               "section": "Also avoid the blame game",
+               "text": "Not blaming yourself is not the same thing as blaming the other person. Cultivating hate and resentment is more likely to hurt your chances of moving on and healing. Instead, try to leave them behind emotionally. Let go."
+             },
+             {
+               "section": "Accept the situation",
+               "text": "Don't wait around for something that might not happen, as it is sure to hurt you and your former partner as well. Accept the reality of the situation and focus on moving forward."
+             },
+             {
+               "section": "Focus on other Relationships",
+               "text": "While rushing into a new love story might not be the best idea, you can focus on your family, your friends, and even your professional network. Bridge old gaps and create new Relationships. Invest time in the friends and family members you were not seeing as much. Avoid isolating yourself and instead contribute to the communities you belong to."
+             },
+             {
+               "section": "Take care of yourself",
+               "text": "Revisit your relationship with yourself. Give yourself time to relax, take good care of your body, and emotions. Prioritize aspects of your life that you might have been neglecting, such as sleep or nutrition. Consider adding exercise, fun times, or more time to rest. Feeling better physically will help you feel better emotionally. Also, ensure that you are putting some time and effort into processing your emotions and spending time with yourself."
+             }
+           ]
+         },
+         {
+           "id": "29",
+           "date": "AUGUST 2, 2023",
+           "catetory": "Relationships",
+           "title": "How to Evolve as a Partner",
+           "like":"2456",
+           "time":"2:08",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231000/TBDD_API/Make%20Me%20Better%20App/Articles/How_to_Evolve_as_a_Partner_nj1a2f.jpg",
+           "content": [
+             {
+               "quote": {
+                 "author": "Sam Keen",
+                 "text": "You come to love not by finding the perfect person, but by seeing an imperfect person perfectly."
+               }
+             },
+             {
+               "section": "Become a cheerleader",
+               "text": "Become a positive presence for your partner and support them in their plans and ideas. Strive to offer emotional support whenever possible and listen to your partner with a positive attitude. Encourage them to pursue their plans and ideas, and share their joy when you can."
+             },
+             {
+               "section": "Offer the support they need",
+               "text": "Being a support system means being there for the good and the bad. Offer solutions when necessary, but provide them with a safe space to share their concerns, emotions, and worries without judgment. Sometimes, your partner might simply need you to listen."
+             },
+             {
+               "section": "Become an equal partner",
+               "text": "A relationship is built by two people, each carrying their share of responsibility. Strive to be an equal partner most of the time, both in practical tasks and emotional support. Consider discussing with your partner if there's an imbalance that needs addressing."
+             },
+             {
+               "section": "Invest in your own growth",
+               "text": "Improving as a partner also involves personal growth. Take care of yourself and ensure that you are well and can thrive. Consider your goals, needs, and the skills you want to develop, both professionally and personally. Give yourself the time and space to grow."
+             },
+             {
+               "section": "Frame things positively",
+               "text": "Cultivate a positive approach in how you interpret your partner's actions. Avoid assuming negative intentions unless there's solid evidence. Consider positive aspects of their actions and avoid interpreting everything in a negative light. This positive framing can help build a healthier relationship."
+             }
+           ]
+         },
+         {
+           "id": "30",
+           "date": "MARCH 19, 2023",
+           "catetory": "Relationships",
+           "title": "Relationship Goals: Key Principles For Success",
+           "like":"2456",
+           "time":"2:12",
+           "img": "https://res.cloudinary.com/dcrda6u0e/image/upload/v1700231003/TBDD_API/Make%20Me%20Better%20App/Articles/Relationship_Goals_Key_Principles_For_Success_khzbxj.jpg",
+           "content": [
+             {
+               "quote": {
+                "author": "Fyodor Dostoyevsky",
+                 "text": "The key to successful social behavior: be approachable and understand the needs of others."
+               }
+             },
+             {
+               "section": "Introduction",
+               "text": "Couples usually want their relationship to work. But often it doesn't. People get divorced or break up. Often, these come down to the same mistakes that couples make over and over again."
+             },
+             {
+               "section": "Prioritize each other",
+               "text": "Many couples fail to prioritize each other, giving more time and energy to work, family, or other Relationships. It's crucial to show that your partner is a priority by dedicating time and effort to them frequently."
+             },
+             {
+               "section": "Learn what triggers negative emotions",
+               "text": "Couples often neglect identifying and avoiding triggering each other's negative emotions. Being mindful of sensitive topics or actions that evoke strong reactions is essential to maintaining harmony in a relationship."
+             },
+             {
+               "section": "Solve issues quickly",
+               "text": "Allowing problems to linger and grow larger is a common mistake. Addressing issues promptly, discussing them calmly after they occur, and finding constructive solutions help prevent conflicts from escalating."
+             },
+             {
+               "section": "Do new things together",
+               "text": "Couples can get stuck in routines that grow stale over time. Engaging in new activities together injects excitement and energy into the relationship, fostering a deeper connection and shared experiences."
+             },
+             {
+               "section": "Learn from old mistakes",
+               "text": "Repeatedly applying ineffective strategies and expecting different results leads to frustration. Instead, learning from past mistakes and seeking new approaches to communication and problem-solving is essential for relationship growth."
+             },
+             {
+               "section": "Overall",
+               "text": "Awareness of common relationship pitfalls can help couples build a solid foundation. By addressing issues promptly, prioritizing each other, engaging in new experiences, and learning from mistakes, couples can strengthen their relationship."
+             }
+           ]
+         }
+   ],
+   "feeds":[
+     {
+       "id":"1",
+       "content":"Encourage yourself, believe in yourself, and love yourself. Never doubt who you are.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235583/TBDD_API/Make%20Me%20Better%20App/Feeds/Encourage_yourself_believe_in_yourself_and_love_yourself_lbzqdt.jpg",
+       "date":"16 thg 11, 2023",
+       "catetory":"Quotes",
+       "like":"1592"
+
+     },
+     {
+       "id":"2",
+       "content":"Temptation usually comes in by a door that has been deliberately left open.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235591/TBDD_API/Make%20Me%20Better%20App/Feeds/Temptation_usually_comes_in_by_a_door_that_has_been_deliberately_left_open_vxi27q.jpg",
+       "date":"14 thg 11, 2023",
+       "catetory":"Quotes",
+       "like":"1425"
+     },
+     {
+       "id":"3",
+       "content":"Your talent is God's gift to you. What you do with it is your gift back to God.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235595/TBDD_API/Make%20Me%20Better%20App/Feeds/Your_talent_is_God_s_gift_to_you_qjiy9s.jpg",
+       "date":"12 thg 11, 2023",
+       "catetory":"Quotes",
+       "like":"1423"
+     },
+     {
+       "id":"4",
+       "content":"You may not control all the events that happen to you, but you can decide not to be reduced by them",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235593/TBDD_API/Make%20Me%20Better%20App/Feeds/You_may_not_control_all_the_events_that_happen_to_you_sj2or6.jpg",
+       "date":"10 thg 11, 2023",
+       "catetory":"Quotes",
+       "like":"1702"
+     },
+     {
+       "id":"5",
+       "content":"How to build a Network in your field? Help other, give valuable suggestion when asked, Interact, Share your knowledge.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235584/TBDD_API/Make%20Me%20Better%20App/Feeds/How_to_build_a_Network_in_your_field_bpmnqo.png",
+       "date":"06 thg 8, 2021",
+       "catetory":"Life Hacks",
+       "like":"1094"
+     },
+     {
+       "id":"6",
+       "content":"Train yourself to always keep an eye out for things that need to go in the direction you are going. If you are about to go downstairs, does any item nearby need to go with you? Perhaps a cup can be brought to the sink on your way to the bathroom.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235592/TBDD_API/Make%20Me%20Better%20App/Feeds/Train_yourself_to_always_keep_an_eye_mtn8hq.jpg",
+       "date":"26 thg 6, 2021",
+       "catetory":"Life Hacks",
+       "like":"1630"
+     },
+     {
+       "id":"7",
+       "content":"If you have trouble making a decision, flip a coin. While you're waiting to get the result, your mind automatically starts to wish for what it wants.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235586/TBDD_API/Make%20Me%20Better%20App/Feeds/If_you_have_trouble_making_a_decision_ky5bbq.jpg",
+       "date":"26 thg 5, 2021",
+       "catetory":"Life Hacks",
+       "like":"1680"
+     },
+     {
+       "id":"8",
+       "content":"Every task, every commitment should be written down. This frees your mind from the energy- and attention-sucking job of trying to remember.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235583/TBDD_API/Make%20Me%20Better%20App/Feeds/Every_task_yahny8.jpg",
+       "date":"24 thg 3, 2021",
+       "catetory":"Life Hacks",
+       "like":"1183"
+     },
+     {
+       "id":"9",
+       "content":"I believe, if I put all my efforts, I will get anything I want.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235585/TBDD_API/Make%20Me%20Better%20App/Feeds/I_believe_wvhpji.jpg",
+       "date":"10 thg 9, 2022",
+       "catetory":"Affirmation",
+       "like":"3441"
+     },
+     {
+       "id":"10",
+       "content":"All I know is I can and I will definitely conquer it.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235582/TBDD_API/Make%20Me%20Better%20App/Feeds/All_I_know_is_I_can_and_I_will_definitely_conquer_it_zzsx8z.jpg",
+       "date":"08 thg 9, 2022",
+       "catetory":"Affirmation",
+       "like":"2506"
+     },
+     {
+       "id":"11",
+       "content":"I am attracting success.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235584/TBDD_API/Make%20Me%20Better%20App/Feeds/I_am_attracting_success_ymfayy.jpg",
+       "date":"06 thg 9, 2022",
+       "catetory":"Affirmation",
+       "like":"1824"
+     },
+     {
+       "id":"12",
+       "content":"My heart posses the courage to see big dreams.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235589/TBDD_API/Make%20Me%20Better%20App/Feeds/My_heart_posses_the_courage_to_see_big_dreams_u1g2bi.jpg",
+       "date":"04 thg 9, 2022",
+       "catetory":"Affirmation",
+       "like":"1674"
+     },
+     {
+       "id":"13",
+       "content":"5 minutes of daily exercise is infinitely better than 0 minutes and will make a big difference.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235588/TBDD_API/Make%20Me%20Better%20App/Feeds/minutes_of_daily_exercise_yaave2.jpg",
+       "date":"04 thg 8, 2021",
+       "catetory":"Heath Tips",
+       "like":"1098"
+     },
+     {
+       "id":"14",
+       "content":"Make it a habit to drink 1 glass of water at least 15 to 30 minutes before your meal.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235588/TBDD_API/Make%20Me%20Better%20App/Feeds/Make_it_a_habit_to_drink_yzuzaa.png",
+       "date":"29 thg 7, 2021",
+       "catetory":"Heath Tips",
+       "like":"1244"
+     },
+     {
+       "id":"15",
+       "content":"Eat Mindfully: Shut down all the distractions around you and focus on your meal. You will feel fuller faster and for a longer time.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235582/TBDD_API/Make%20Me%20Better%20App/Feeds/Eat_Mindfully_apfbnt.png",
+       "date":"24 thg 7, 2021",
+       "catetory":"Heath Tips",
+       "like":"1168"
+     },
+     {
+       "id":"16",
+       "content":"Eat the rainbow. Aim to eat all the colors of the rainbow each day.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235584/TBDD_API/Make%20Me%20Better%20App/Feeds/Eat_the_rainbow_ws4nzk.jpg",
+       "date":"26 thg 4, 2021",
+       "catetory":"Heath Tips",
+       "like":"1106"
+     },
+     {
+       "id":"17",
+       "content":"Keep your stuff safe - You can save a lot of money just by taking care of the things you already own. Like, If you are someone who keeps dropping their phone or gadget, then it's better to use a protector so that you can extend gadgets life and avoid unnecessary repeat purchase. Small savings can make a big impact.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235587/TBDD_API/Make%20Me%20Better%20App/Feeds/Keep_your_stuff_safe_aewbxn.png",
+       "date":"01 thg 9, 2021",
+       "catetory":"Finance Tips",
+       "like":"889"
+     },
+     {
+       "id":"18",
+       "content":"Cancel Unused Subscriptions - Many times we subscribe to services and things for one time use, but forget to cancel them. These subscriptions can easily spike your expenses. Check now which services you have subscribed to and which of them you no longer use. Most probably you will find at least one or two such subscriptions.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235585/TBDD_API/Make%20Me%20Better%20App/Feeds/Cancel_Unused_Subscriptions_vevvhw.png",
+       "date":"25 thg 8, 2021",
+       "catetory":"Finance Tips",
+       "like":"615"
+     },
+     {
+       "id":"19",
+       "content":"Your savings should rise with your income - whenever you get a promotion or a salary hike think about increasing the money you add to savings each month. Don't think of unnecessary big purchases just because you are earning more.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235594/TBDD_API/Make%20Me%20Better%20App/Feeds/Your_savings_should_rise_with_your_income_jtyvel.png",
+       "date":"21 thg 7, 2021",
+       "catetory":"Finance Tips",
+       "like":"991"
+     },
+     {
+       "id":"20",
+       "content":"Pay off the most expensive debts first - If you have several debts to pay off, start with the one with the highest interest rate.",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700235590/TBDD_API/Make%20Me%20Better%20App/Feeds/Pay_off_the_most_expensive_debts_first_mvteg0.jpg",
+       "date":"19 thg 6, 2021",
+       "catetory":"Finance Tips",
+       "like":"1068"
+     }
+   ], 
+   "podcast":[
+     {
+       "id":"1",
+       "catetory":"Lifestyle Choices",
+       "title":"Do you Resist what your heart wants to do?",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Do_you_Resist_what_your_heart_wants_to_do_mhegkj.jpg",
+       "time":"2:59",
+       "vid":"https://youtu.be/zKikVgWVrpg",
+       "like":"1974",
+       "date":"30 thg 10, 2022",
+       "content":[
+         {
+           "section": "",
+           "text": "Many people don't know what they want, and that's a problem. But there is a more insidious one. Many people know what they want and yet they do not allow themselves to pursue it. They resist it, even though it is what their heart desires? Why does this happen?"
+         },
+         {
+           "section": "Resistance Due to Social Conditioning",
+           "text": "We might resist what we want because we have been taught to think it's a bad thing. It's greedy to want more money. It's irresponsible to want fewer tasks or a less difficult job. It's wrong to want to pursue a dream."
+         },
+         {
+           "section": "",
+           "text": "We need to ask ourselves as adults whether this thing is truly bad. Is it something that can hurt you or others? Often, we will find that wanting what we want is not actually bad, more specifically, it is not harmful. Instead, it has possibilities and positive opportunities."
+         },
+         {
+           "section": "Feeling of Missed Opportunities",
+           "text": "Another reason is the feeling that we missed the train. It's too late to want that. We're too old or it's no longer possible. But often, this also proves to be false. We might not be able to pursue a dream full-time, but we can still make it part of our lives."
+         },
+         {
+           "section": "",
+           "text": "For example, if you always dreamed of being a dancer, you might not be able to go professional, but you can still take lessons. Make your dream a part of your life."
+         },
+         {
+           "section": "Fear of Judgment",
+           "text": "Another reason is that we worry what others will think. What will our families or friends say if we try something bold or different, something so unlike the way we usually are? It can be a scary idea."
+         },
+         {
+           "section": "",
+           "text": "However, if we let other people determine what we do, we will be limiting ourselves too much. Ultimately, other people will not live your life or have to deal with the consequences of your choices. If you give up on your dream, you will be the only one who ends up regretting it."
+         },
+         {
+           "section": "Overcoming Obstacles",
+           "text": "Sometimes, there might be real obstacles to pursuing a dream, like a lack of money, a lot of other responsibilities, or real limitations. However, you might look for ways to bring that dream closer."
+         },
+         {
+           "section": "",
+           "text": "Make it a hobby or a leisure activity. Give yourself the chance to take a class or buy materials or do anything else that helps you feel like this part of you is being explored, acknowledged, and respected."
+         },
+         {
+           "section": "",
+           "text": "If you stop resisting what your heart wants, you can find a lot of amazing opportunities at your doorstep. At least, you are sure to discover a lot of wonderful things, meet new people, and feel happier and more fulfilled."
+         }
+       ],
+       "text_Ex": "“The day we stop resisting our instincts, we will have learned how to live.”"
+     },
+     {
+       "id":"2",
+       "catetory":"Lifestyle Choices",
+       "title":"Do things well and do good things, even if it doesn't seem to matter",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571927/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Do_things_well_and_do_good_things_even_if_it_doesn_t_seem_to_matter_gcy6m7.jpg",
+       "time":"2:47",
+       "vid":"https://youtu.be/Gsrw74RzKIo",
+       "like":"2227",
+       "date":"24 thg 10, 2022",
+       "content":[
+         {
+           "section": "",
+           "text": "Does it matter if you help a stranger? You will not see them again. Does it matter if you do a random job well? You might never encounter this client again. There are a lot of seemingly meaningless things that you might not care about."
+         },
+         {
+           "section": "",
+           "text": "So, why does it matter that you do them well?"
+         },
+         {
+           "section": "Benefits of Doing Good",
+           "text": "A job, a small gesture of kindness, or any other thing you do for others or for yourself might not matter in the grand scheme of things. But it is still worth doing. When you do good things for other people, it has several benefits."
+         },
+         {
+           "section": "",
+           "text": "First, it allows you to feel good. We are prosocial creatures by nature. Our bodies and brains react with a burst of joy and satisfaction when we know we've done something good."
+         },
+         {
+           "section": "",
+           "text": "What's more, these are actions that are good for our health. Being kind and helping others gives our physical health a boost, and it does wonders for your mental well-being too. Even if others don't recognize your effort, you can still feel the benefits."
+         },
+         {
+           "section": "",
+           "text": "Doing good allows you to take pride in what you have chosen to achieve and accomplish. You don't depend on other people to give you validation. You know what you did and that can be enough. This empowers you and allows you to feel proud with your work."
+         },
+         {
+           "section": "",
+           "text": "Thirdly, knowing you did things well makes it less likely that you leave problems behind. When we do a poor job of something we feel doesn't matter, it can eventually come back to bite us. If you did things well, you can stay calm and know that nothing is looming over you."
+         },
+         {
+           "section": "Building Reputation and Character",
+           "text": "Doing well in things that might not be seen as important and paying attention to work quality, work ethic, and details can help you distinguish yourself from others and build a reputation that has quality, not just for show."
+         },
+         {
+           "section": "",
+           "text": "Even if others never find out or care, it doesn't matter. It's important that you do things for your own sake and commit to feeling proud of what you accomplish."
+         },
+         {
+           "section": "",
+           "text": "Maybe nobody will ever find out you left the work undone or incomplete or that you gave up or that you treated someone poorly because you thought they were unimportant. But you will know. You will always know and remember."
+         },
+         {
+           "section": "",
+           "text": "Remember to make things good when you work and interact with others. It will be worth it, even if it is just because of how good it will make you feel."
+         }
+       ],
+       "text_Ex": "“The true test of a man's character is what he does when no one is watching.”"
+     },
+     {
+       "id":"3",
+       "catetory":"Communication Skills",
+       "title":"Why Can You Not Admit You Are Wrong?",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Why_Can_You_Not_Admit_You_Are_Wrong_oaoqfr.jpg",
+       "time":"5:05",
+       "vid":"https://youtube.com/watch?v=Aop-oaMSZIQ&si=ILBUdnyBRhMckHtq",
+       "like":"1754",
+       "date":"23 thg 9, 2022",
+       "content":[
+         {
+           "section": "",
+           "text": "There are few things as difficult as accepting that you are wrong. It feels unpleasant, but it can also be hugely important. If we cannot admit a mistake, we also can’t fix it or improve. Admitting it is not always fun, but it is essential."
+         },
+         {
+           "section": "Understanding the Struggle",
+           "text": "One of the first steps towards doing better, learning, and growing is understanding why we sometimes struggle so much with taking responsibility."
+         },
+         {
+           "section": "1. We believe that admitting mistakes makes us feel weak",
+           "text": "We believe that admitting mistakes makes us feel weak. This misconception comes from the idea that strong or worthy people are not wrong, ever. Accepting mistakes as a part of life showcases efforts and inner strength."
+         },
+         {
+           "section": "2. We have a hard time seeing the perspective of other people",
+           "text": "We have a hard time seeing the perspective of other people, especially when it challenges our preconceived notions. Keeping an open mind and considering new possibilities helps keep opinions flexible."
+         },
+         {
+           "section": "3. You are oblivious, unaware of the mistake",
+           "text": "Obliviousness to the mistake can hinder acknowledgment. Being open to feedback from others, seeking criticism, and staying attentive to signs of mistakes aids in recognizing them."
+         },
+         {
+           "section": "4. You don't know how to accept a mistake",
+           "text": "Lack of knowledge on how to accept a mistake can stem from past experiences where mistakes were punished. Being open and honest when discussing mistakes, focusing on solutions, and intention to fix them is beneficial."
+         },
+         {
+           "section": "5. You are worried that it will be used against you",
+           "text": "Fear that admitting mistakes will be used against you is common in environments where errors are harshly punished. In such cases, focusing on offering solutions and constructive approaches to errors is vital."
+         }
+       ],
+       "text_Ex": ""
+     },
+     {
+       "id":"4",
+       "catetory":"Lifestyle Choices",
+       "title":"6 Truths That Are Hard To Accept In Reality",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Truths_That_Are_Hard_To_Accept_In_Reality_wo9tzi.jpg",
+       "time":"5:00",
+       "vid":"https://youtu.be/cP8XLsO_G7I",
+       "like":"2800",
+       "date":"12 thg 9, 2022",
+       "content":[
+         {
+           "section": "",
+           "text": "Not everything in life is fun and pleasant. Some truths are especially hard to accept. However, if we do manage to accept them, our lives will become much easier."
+         },
+         {
+           "section": "",
+           "text": "We will be able to take on more responsibility for our well-being and happiness and pursue the things that truly matter. Here are six truths that might not taste sweet but that can make a big difference in your life."
+         },
+         {
+           "section": "1. Our happiness is our responsibility",
+           "text": "You will not be happy if you win the lottery or get married or get that dream job. You will only become happy when you choose to be. Regardless of external circumstances, our happiness depends primarily on how we choose to see the world and ourselves."
+         },
+         {
+           "section": "2. You can't control everything",
+           "text": "Despite making plans and provisions, there are many things beyond our control. Letting go of the need to control everything can alleviate a significant burden and help us accept uncertainty."
+         },
+         {
+           "section": "3. Everyone has their perspective, and yours is not the only correct one",
+           "text": "The world is complex, and multiple valid perspectives exist. Accepting this can reduce frustration and promote empathy, understanding, and stronger Relationships."
+         },
+         {
+           "section": "4. You cannot change another person, even if you love them",
+           "text": "Love often brings the illusion that we can change someone. However, people can only change if they decide to do so themselves."
+         },
+         {
+           "section": "5. Luck is a factor in success",
+           "text": "Luck plays a role alongside hard work in success. Chance opportunities can significantly influence outcomes, and acknowledging luck's role is important in evaluating progress."
+         },
+         {
+           "section": "6. It's not always about you",
+           "text": "Recognizing that not everything revolves around us can be liberating. Others don't focus on us as much as we might think, allowing us the freedom to explore and enjoy without excessive pressure."
+         }
+       ],
+       "text_Ex": ""
+     },
+     {
+       "id":"5",
+       "catetory":"Lifestyle Choices",
+       "title":"You Are Not Meant for Everybody Around You",
+       "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/You_Are_Not_Meant_for_Everybody_Around_You_ryamff.jpg",
+       "time":"2:47",
+       "vid":"https://youtu.be/JuCKkhtx8xQ",
+       "like":"2423",
+       "date":"03 thg 9, 2022",
+       "content":[
+         {
+           "section": "",
+           "text": "Rejection stings. So does indifference. This often makes us try and pursue good Relationships with all the people around us. While understandable, it's not the best idea."
+         },
+         {
+           "section": "",
+           "text": "You cannot be a hero or a positive presence for everyone. Accept that and let go of the idea that you have to be liked by everyone. Trying to please everyone reflects several wrong ideas."
+         },
+         {
+           "section": "Misconceptions and Realizations",
+           "text": "Firstly, believing it all depends on us is inaccurate. We don't control others, their emotions, decisions, or reactions. Spending time being our best selves doesn't guarantee others' perspectives on us will change."
+         },
+         {
+           "section": "",
+           "text": "You can't please everyone, and you shouldn't try. Instead, focus on being yourself and don't force yourself into places or Relationships that don't welcome you."
+         },
+         {
+           "section": "Embracing Authenticity",
+           "text": "Being yourself is key to finding and strengthening Relationships. It's liberating and allows genuine connections with those who appreciate you for who you are."
+         },
+         {
+           "section": "",
+           "text": "Letting go of the need to please others might not be easy. Accepting that some may dislike us is scary, but it's vital to embrace and like ourselves, regardless of others' opinions."
+         },
+         {
+           "section": "",
+           "text": "We're not here for others but for ourselves. Accepting this empowers us to seek genuine connections and authentic Relationships without trying to force acceptance from everyone."
+         },
+         {
+           "section": "",
+           "text": "You are not meant for everyone around you, and that's okay. Trying to change that will only lead to unfavorable outcomes."
+         }
+       ],
+       "text_Ex": ""
+     },
+     {
+      "id":"6",
+      "catetory":"Lifestyle Choices",
+      "title":"Do you Resist what your heart wants to do?",
+      "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Do_you_Resist_what_your_heart_wants_to_do_mhegkj.jpg",
+      "time":"2:59",
+      "vid":"https://youtu.be/zKikVgWVrpg",
+      "like":"1974",
+      "date":"30 thg 10, 2022",
+      "content":[
+        {
+          "section": "",
+          "text": "Many people don't know what they want, and that's a problem. But there is a more insidious one. Many people know what they want and yet they do not allow themselves to pursue it. They resist it, even though it is what their heart desires? Why does this happen?"
+        },
+        {
+          "section": "Resistance Due to Social Conditioning",
+          "text": "We might resist what we want because we have been taught to think it's a bad thing. It's greedy to want more money. It's irresponsible to want fewer tasks or a less difficult job. It's wrong to want to pursue a dream."
+        },
+        {
+          "section": "",
+          "text": "We need to ask ourselves as adults whether this thing is truly bad. Is it something that can hurt you or others? Often, we will find that wanting what we want is not actually bad, more specifically, it is not harmful. Instead, it has possibilities and positive opportunities."
+        },
+        {
+          "section": "Feeling of Missed Opportunities",
+          "text": "Another reason is the feeling that we missed the train. It's too late to want that. We're too old or it's no longer possible. But often, this also proves to be false. We might not be able to pursue a dream full-time, but we can still make it part of our lives."
+        },
+        {
+          "section": "",
+          "text": "For example, if you always dreamed of being a dancer, you might not be able to go professional, but you can still take lessons. Make your dream a part of your life."
+        },
+        {
+          "section": "Fear of Judgment",
+          "text": "Another reason is that we worry what others will think. What will our families or friends say if we try something bold or different, something so unlike the way we usually are? It can be a scary idea."
+        },
+        {
+          "section": "",
+          "text": "However, if we let other people determine what we do, we will be limiting ourselves too much. Ultimately, other people will not live your life or have to deal with the consequences of your choices. If you give up on your dream, you will be the only one who ends up regretting it."
+        },
+        {
+          "section": "Overcoming Obstacles",
+          "text": "Sometimes, there might be real obstacles to pursuing a dream, like a lack of money, a lot of other responsibilities, or real limitations. However, you might look for ways to bring that dream closer."
+        },
+        {
+          "section": "",
+          "text": "Make it a hobby or a leisure activity. Give yourself the chance to take a class or buy materials or do anything else that helps you feel like this part of you is being explored, acknowledged, and respected."
+        },
+        {
+          "section": "",
+          "text": "If you stop resisting what your heart wants, you can find a lot of amazing opportunities at your doorstep. At least, you are sure to discover a lot of wonderful things, meet new people, and feel happier and more fulfilled."
+        }
+      ],
+      "text_Ex": "“The day we stop resisting our instincts, we will have learned how to live.”"
+    },
+    {
+      "id":"7",
+      "catetory":"Lifestyle Choices",
+      "title":"Do things well and do good things, even if it doesn't seem to matter",
+      "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571927/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Do_things_well_and_do_good_things_even_if_it_doesn_t_seem_to_matter_gcy6m7.jpg",
+      "time":"2:47",
+      "vid":"https://youtu.be/Gsrw74RzKIo",
+      "like":"2227",
+      "date":"24 thg 10, 2022",
+      "content":[
+        {
+          "section": "",
+          "text": "Does it matter if you help a stranger? You will not see them again. Does it matter if you do a random job well? You might never encounter this client again. There are a lot of seemingly meaningless things that you might not care about."
+        },
+        {
+          "section": "",
+          "text": "So, why does it matter that you do them well?"
+        },
+        {
+          "section": "Benefits of Doing Good",
+          "text": "A job, a small gesture of kindness, or any other thing you do for others or for yourself might not matter in the grand scheme of things. But it is still worth doing. When you do good things for other people, it has several benefits."
+        },
+        {
+          "section": "",
+          "text": "First, it allows you to feel good. We are prosocial creatures by nature. Our bodies and brains react with a burst of joy and satisfaction when we know we've done something good."
+        },
+        {
+          "section": "",
+          "text": "What's more, these are actions that are good for our health. Being kind and helping others gives our physical health a boost, and it does wonders for your mental well-being too. Even if others don't recognize your effort, you can still feel the benefits."
+        },
+        {
+          "section": "",
+          "text": "Doing good allows you to take pride in what you have chosen to achieve and accomplish. You don't depend on other people to give you validation. You know what you did and that can be enough. This empowers you and allows you to feel proud with your work."
+        },
+        {
+          "section": "",
+          "text": "Thirdly, knowing you did things well makes it less likely that you leave problems behind. When we do a poor job of something we feel doesn't matter, it can eventually come back to bite us. If you did things well, you can stay calm and know that nothing is looming over you."
+        },
+        {
+          "section": "Building Reputation and Character",
+          "text": "Doing well in things that might not be seen as important and paying attention to work quality, work ethic, and details can help you distinguish yourself from others and build a reputation that has quality, not just for show."
+        },
+        {
+          "section": "",
+          "text": "Even if others never find out or care, it doesn't matter. It's important that you do things for your own sake and commit to feeling proud of what you accomplish."
+        },
+        {
+          "section": "",
+          "text": "Maybe nobody will ever find out you left the work undone or incomplete or that you gave up or that you treated someone poorly because you thought they were unimportant. But you will know. You will always know and remember."
+        },
+        {
+          "section": "",
+          "text": "Remember to make things good when you work and interact with others. It will be worth it, even if it is just because of how good it will make you feel."
+        }
+      ],
+      "text_Ex": "“The true test of a man's character is what he does when no one is watching.”"
+    },
+    {
+      "id":"8",
+      "catetory":"Communication Skills",
+      "title":"Why Can You Not Admit You Are Wrong?",
+      "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Why_Can_You_Not_Admit_You_Are_Wrong_oaoqfr.jpg",
+      "time":"5:05",
+      "vid":"https://youtube.com/watch?v=Aop-oaMSZIQ&si=ILBUdnyBRhMckHtq",
+      "like":"1754",
+      "date":"23 thg 9, 2022",
+      "content":[
+        {
+          "section": "",
+          "text": "There are few things as difficult as accepting that you are wrong. It feels unpleasant, but it can also be hugely important. If we cannot admit a mistake, we also can’t fix it or improve. Admitting it is not always fun, but it is essential."
+        },
+        {
+          "section": "Understanding the Struggle",
+          "text": "One of the first steps towards doing better, learning, and growing is understanding why we sometimes struggle so much with taking responsibility."
+        },
+        {
+          "section": "1. We believe that admitting mistakes makes us feel weak",
+          "text": "We believe that admitting mistakes makes us feel weak. This misconception comes from the idea that strong or worthy people are not wrong, ever. Accepting mistakes as a part of life showcases efforts and inner strength."
+        },
+        {
+          "section": "2. We have a hard time seeing the perspective of other people",
+          "text": "We have a hard time seeing the perspective of other people, especially when it challenges our preconceived notions. Keeping an open mind and considering new possibilities helps keep opinions flexible."
+        },
+        {
+          "section": "3. You are oblivious, unaware of the mistake",
+          "text": "Obliviousness to the mistake can hinder acknowledgment. Being open to feedback from others, seeking criticism, and staying attentive to signs of mistakes aids in recognizing them."
+        },
+        {
+          "section": "4. You don't know how to accept a mistake",
+          "text": "Lack of knowledge on how to accept a mistake can stem from past experiences where mistakes were punished. Being open and honest when discussing mistakes, focusing on solutions, and intention to fix them is beneficial."
+        },
+        {
+          "section": "5. You are worried that it will be used against you",
+          "text": "Fear that admitting mistakes will be used against you is common in environments where errors are harshly punished. In such cases, focusing on offering solutions and constructive approaches to errors is vital."
+        }
+      ],
+      "text_Ex": ""
+    },
+    {
+      "id":"9",
+      "catetory":"Lifestyle Choices",
+      "title":"6 Truths That Are Hard To Accept In Reality",
+      "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/Truths_That_Are_Hard_To_Accept_In_Reality_wo9tzi.jpg",
+      "time":"5:00",
+      "vid":"https://youtu.be/cP8XLsO_G7I",
+      "like":"2800",
+      "date":"12 thg 9, 2022",
+      "content":[
+        {
+          "section": "",
+          "text": "Not everything in life is fun and pleasant. Some truths are especially hard to accept. However, if we do manage to accept them, our lives will become much easier."
+        },
+        {
+          "section": "",
+          "text": "We will be able to take on more responsibility for our well-being and happiness and pursue the things that truly matter. Here are six truths that might not taste sweet but that can make a big difference in your life."
+        },
+        {
+          "section": "1. Our happiness is our responsibility",
+          "text": "You will not be happy if you win the lottery or get married or get that dream job. You will only become happy when you choose to be. Regardless of external circumstances, our happiness depends primarily on how we choose to see the world and ourselves."
+        },
+        {
+          "section": "2. You can't control everything",
+          "text": "Despite making plans and provisions, there are many things beyond our control. Letting go of the need to control everything can alleviate a significant burden and help us accept uncertainty."
+        },
+        {
+          "section": "3. Everyone has their perspective, and yours is not the only correct one",
+          "text": "The world is complex, and multiple valid perspectives exist. Accepting this can reduce frustration and promote empathy, understanding, and stronger Relationships."
+        },
+        {
+          "section": "4. You cannot change another person, even if you love them",
+          "text": "Love often brings the illusion that we can change someone. However, people can only change if they decide to do so themselves."
+        },
+        {
+          "section": "5. Luck is a factor in success",
+          "text": "Luck plays a role alongside hard work in success. Chance opportunities can significantly influence outcomes, and acknowledging luck's role is important in evaluating progress."
+        },
+        {
+          "section": "6. It's not always about you",
+          "text": "Recognizing that not everything revolves around us can be liberating. Others don't focus on us as much as we might think, allowing us the freedom to explore and enjoy without excessive pressure."
+        }
+      ],
+      "text_Ex": ""
+    },
+    {
+      "id":"10",
+      "catetory":"Lifestyle Choices",
+      "title":"You Are Not Meant for Everybody Around You",
+      "img":"https://res.cloudinary.com/dcrda6u0e/image/upload/v1700571928/TBDD_API/Make%20Me%20Better%20App/Podcast_Vid/You_Are_Not_Meant_for_Everybody_Around_You_ryamff.jpg",
+      "time":"2:47",
+      "vid":"https://youtu.be/JuCKkhtx8xQ",
+      "like":"2423",
+      "date":"03 thg 9, 2022",
+      "content":[
+        {
+          "section": "",
+          "text": "Rejection stings. So does indifference. This often makes us try and pursue good Relationships with all the people around us. While understandable, it's not the best idea."
+        },
+        {
+          "section": "",
+          "text": "You cannot be a hero or a positive presence for everyone. Accept that and let go of the idea that you have to be liked by everyone. Trying to please everyone reflects several wrong ideas."
+        },
+        {
+          "section": "Misconceptions and Realizations",
+          "text": "Firstly, believing it all depends on us is inaccurate. We don't control others, their emotions, decisions, or reactions. Spending time being our best selves doesn't guarantee others' perspectives on us will change."
+        },
+        {
+          "section": "",
+          "text": "You can't please everyone, and you shouldn't try. Instead, focus on being yourself and don't force yourself into places or Relationships that don't welcome you."
+        },
+        {
+          "section": "Embracing Authenticity",
+          "text": "Being yourself is key to finding and strengthening Relationships. It's liberating and allows genuine connections with those who appreciate you for who you are."
+        },
+        {
+          "section": "",
+          "text": "Letting go of the need to please others might not be easy. Accepting that some may dislike us is scary, but it's vital to embrace and like ourselves, regardless of others' opinions."
+        },
+        {
+          "section": "",
+          "text": "We're not here for others but for ourselves. Accepting this empowers us to seek genuine connections and authentic Relationships without trying to force acceptance from everyone."
+        },
+        {
+          "section": "",
+          "text": "You are not meant for everyone around you, and that's okay. Trying to change that will only lead to unfavorable outcomes."
+        }
+      ],
+      "text_Ex": ""
+    }
+   ]
+}
